@@ -5,10 +5,10 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Cagayan de Oro 2014"
+title: "GDG DevFest CDO 2014"
 email: "gdgcdo@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
-url: "http://josanastrid.github.io"
+url: "http://devfest.gdgcdo.org"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-56349123-1"
 googleAnalyticsSiteUrl: "josanastrid.github.io"
@@ -42,11 +42,10 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://goo.gl/cyXKlB", text: "Become a delegate"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -63,7 +62,7 @@ aboutTitle: "About GDG DevFest"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Design Sprints", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -84,13 +83,13 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
+eventLocationName: "Theatre"
+eventLocationLink: "http://www.cu.edu.ph/"
+eventStreetAddress: "Corrales/Osmeña Avenue"
+eventAddressLocality: "Cagayan de Oro"
+eventAddressLocalityRegion: "Misamis Oriental"
+eventPostalCode: "9000"
+eventAddressCountry: "Philippines"
 eventStartTime: "2014-10-25T10:00"
 eventDoorTime: "09:00"
 eventEndTime: "2014-10-25T20:00"
