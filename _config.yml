@@ -10,9 +10,9 @@ email: "gdgcdo@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
 url: "http://devfest.gdgcdo.org"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-56349123-1"
-googleAnalyticsSiteUrl: "josanastrid.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+# googleAnalyticsTrackingId: "UA-56349123-1"
+# googleAnalyticsSiteUrl: "josanastrid.github.io"
+# siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
 organizerName: "GDG Cagayan de Oro"
