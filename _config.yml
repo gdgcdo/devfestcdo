@@ -5,7 +5,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Cagayan de Oro 2014"
+title: "GDG DevFest CDO 2014"
 email: "gdgcdo@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
 url: "http://devfest.gdgcdo.org"
@@ -30,7 +30,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
+c4pUrl: "http://goo.gl/cyXKlB"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
@@ -42,21 +42,19 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+  - {link: "http://goo.gl/cyXKlB", text: "Become a delegate"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://goo.gl/cyXKlB", text: "Become a delegate"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
+heroTitle: "GDG DevFest Cagayan de Oro<br/><typeout>"
+eventDate: "November 29, 2014"
+typeoutTextValues: '"", "2014", "Conference", "Code Labs", "Design Sprints"'
+typeoutFallback: "is back!"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "http://goo.gl/cyXKlB", text: "Become a delegate"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
