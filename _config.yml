@@ -37,11 +37,9 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
   - {link: "http://goo.gl/cyXKlB", text: "Become a delegate"}
 rightNavigationButtons:
@@ -54,6 +52,7 @@ eventDate: "November 29, 2014"
 typeoutTextValues: '"", "2014", "Conference", "Code Labs", "Design Sprints"'
 typeoutFallback: "is back!"
 heroButtons:
+ - {permalink: "/schedule/", text: "Schedule"}
  - {link: "http://goo.gl/cyXKlB", text: "Become a delegate"}
 
 # About Block
@@ -124,24 +123,19 @@ subscribeInfo: "Registration will be closed on November 23. Number of slots are 
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
+ - {link: "https://plus.google.com/u/0/109777245615877849664/posts", icon: "google-plus"}
+ - {link: "https://twitter.com/intent/user?screen_name=GDGCDO", icon: "twitter"}
+ - {link: "https://facebook.com/GDGCDO", icon: "facebook"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "http://gdgcdo.org", text: "GDGCDO.org"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
- -
-  title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {link: "mailto:gdgcdo@gmail.com", text: "gdgcdo@gmail.com"}
 
 # Blog
 blogTitle: "Latest news"
@@ -168,7 +162,7 @@ logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Lviv"
+directionDetailsTitle: "Get around Cagayan de Oro"
 directionDetailsCards:
  - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
  - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
