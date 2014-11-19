@@ -108,8 +108,8 @@ venueFeatures: ["Theatre", "Audio-Visual Rooms", "Computer Labs"]
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
+twitterHashTag: "DevFestCDO14"
+twitterFeed: "https://twitter.com/search?q=%23devfestcdo14&src=typd"
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -119,8 +119,8 @@ partnersC4sponsorsButton: "Become a sponsor"
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
-subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeAction: "http://eepurl.com/8TnuX"
+subscribeInfo: "Registration will be closed on November 23. Number of slots are limited. Keep posted!"
 
 # Footer
 socialLinks:
