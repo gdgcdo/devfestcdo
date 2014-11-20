@@ -65,8 +65,8 @@
   id: 8
   name: "Josan Astrid"
   surname: "Dometita"
-  company: "Aestrea Software Development"
-  title: "UI/UX Designer"
+  company: "GDG Cagayan de Oro, Aestrea Software Development"
+  title: "Community Manager, UI/UX Designer"
   bio: 'Josan Astrid Dometita is an HTML5 enthusiast and the Google Developer Group Community Manager for Cagayan de Oro City. Having the interest in the complex ins and outs of computer technology made her earn her Bachelor’s Degree in Computer Science, with a major in Software Engineering. While still in school, she started freelancing online as a web developer, and expanded her portfolio of skills to become a vector artist and motion graphics animator. She started working as a Multimedia Developer in Manila and together with her friends, then built their own consulting and startup company, Aestrea Software Development, where she is the Creative Director. She calls herself codesigner (coder/designer), a hybrid name that could best describe her skill set, bridging the gap between both the design and development worlds.'
   thumbnailUrl: JosanAstrid.jpg
   rockstar: true
@@ -99,6 +99,36 @@
   company: "Webnified"
   title: "Software Engineer"
   bio: 'Josan Astrid Dometita is an HTML5 enthusiast and the Google Developer Group Community Manager for Cagayan de Oro City. Having the interest in the complex ins and outs of computer technology made her earn her Bachelor’s Degree in Computer Science, with a major in Software Engineering. While still in school, she started freelancing online as a web developer, and expanded her portfolio of skills to become a vector artist and motion graphics animator. She started working as a Multimedia Developer in Manila and together with her friends, then built their own consulting and startup company, Aestrea Software Development, where she is the Creative Director. She calls herself codesigner (coder/designer), a hybrid name that could best describe her skill set, bridging the gap between both the design and development worlds.'
+  thumbnailUrl: Geoff.jpg
+  rockstar: false
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/109777245615877849664/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+RavenDuran231/posts"}
+    - {name: "twitter", link: "https://github.com/coderaven"}
+    - {name: "github", link: "https://twitter.com/imraven"}
+- 
+  id: 11
+  name: "Edmund"
+  surname: "Salcedo Jr"
+  company: "Webnified"
+  title: "Software Engineer"
+  bio: 'Josan Astrid Dometita is an HTML5 enthusiast and the Google Developer Group Community Manager for Cagayan de Oro City. Having the interest in the complex ins and outs of computer technology made her earn her Bachelor’s Degree in Computer Science, with a major in Software Engineering. While still in school, she started freelancing online as a web developer, and expanded her portfolio of skills to become a vector artist and motion graphics animator. She started working as a Multimedia Developer in Manila and together with her friends, then built their own consulting and startup company, Aestrea Software Development, where she is the Creative Director. She calls herself codesigner (coder/designer), a hybrid name that could best describe her skill set, bridging the gap between both the design and development worlds.'
+  thumbnailUrl: Edmund.jpg
+  rockstar: false
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/109777245615877849664/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+RavenDuran231/posts"}
+    - {name: "twitter", link: "https://github.com/coderaven"}
+    - {name: "github", link: "https://twitter.com/imraven"}
+- 
+  id: 12
+  name: "Carlo"
+  surname: "Borja"
+  company: "Webnified"
+  title: "Software Engineer"
+  bio: 'Josan Astrid Dometita is an HTML5 enthusiast and the Google Developer Group Community Manager for Cagayan de Oro City. Having the interest in the complex ins and outs of computer technology made her earn her Bachelor’s Degree in Computer Science, with a major in Software Engineering. While still in school, she started freelancing online as a web developer, and expanded her portfolio of skills to become a vector artist and motion graphics animator. She started working as a Multimedia Developer in Manila and together with her friends, then built their own consulting and startup company, Aestrea Software Development, where she is the Creative Director. She calls herself codesigner (coder/designer), a hybrid name that could best describe her skill set, bridging the gap between both the design and development worlds.'
   thumbnailUrl: RavenDuran.jpg
   rockstar: true
   ribbon: 
@@ -107,6 +137,152 @@
     - {name: "google-plus", link: "https://plus.google.com/+RavenDuran231/posts"}
     - {name: "twitter", link: "https://github.com/coderaven"}
     - {name: "github", link: "https://twitter.com/imraven"}
+- 
+  id: 13
+  name: "Sharyrl"
+  surname: "Ramos"
+  company: "Webnified"
+  title: "Software Engineer"
+  bio: 'Josan Astrid Dometita is an HTML5 enthusiast and the Google Developer Group Community Manager for Cagayan de Oro City. Having the interest in the complex ins and outs of computer technology made her earn her Bachelor’s Degree in Computer Science, with a major in Software Engineering. While still in school, she started freelancing online as a web developer, and expanded her portfolio of skills to become a vector artist and motion graphics animator. She started working as a Multimedia Developer in Manila and together with her friends, then built their own consulting and startup company, Aestrea Software Development, where she is the Creative Director. She calls herself codesigner (coder/designer), a hybrid name that could best describe her skill set, bridging the gap between both the design and development worlds.'
+  thumbnailUrl: RavenDuran.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/109777245615877849664/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+RavenDuran231/posts"}
+    - {name: "twitter", link: "https://github.com/coderaven"}
+    - {name: "github", link: "https://twitter.com/imraven"}
+- 
+  id: 14
+  name: "Jon"
+  surname: "Doblados"
+  company: "Google Business Group"
+  title: "Community Lead"
+  bio: 'Josan Astrid Dometita is an HTML5 enthusiast and the Google Developer Group Community Manager for Cagayan de Oro City. Having the interest in the complex ins and outs of computer technology made her earn her Bachelor’s Degree in Computer Science, with a major in Software Engineering. While still in school, she started freelancing online as a web developer, and expanded her portfolio of skills to become a vector artist and motion graphics animator. She started working as a Multimedia Developer in Manila and together with her friends, then built their own consulting and startup company, Aestrea Software Development, where she is the Creative Director. She calls herself codesigner (coder/designer), a hybrid name that could best describe her skill set, bridging the gap between both the design and development worlds.'
+  thumbnailUrl: JonDoblados.jpg
+  rockstar: false
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/109777245615877849664/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+RavenDuran231/posts"}
+    - {name: "twitter", link: "https://github.com/coderaven"}
+    - {name: "github", link: "https://twitter.com/imraven"}
+- 
+  id: 15
+  name: "Roxanne"
+  surname: "Fuentes"
+  company: "Google Educator Group"
+  title: "Community Lead"
+  bio: 'Josan Astrid Dometita is an HTML5 enthusiast and the Google Developer Group Community Manager for Cagayan de Oro City. Having the interest in the complex ins and outs of computer technology made her earn her Bachelor’s Degree in Computer Science, with a major in Software Engineering. While still in school, she started freelancing online as a web developer, and expanded her portfolio of skills to become a vector artist and motion graphics animator. She started working as a Multimedia Developer in Manila and together with her friends, then built their own consulting and startup company, Aestrea Software Development, where she is the Creative Director. She calls herself codesigner (coder/designer), a hybrid name that could best describe her skill set, bridging the gap between both the design and development worlds.'
+  thumbnailUrl: RavenDuran.jpg
+  rockstar: false
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/109777245615877849664/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+RavenDuran231/posts"}
+    - {name: "twitter", link: "https://github.com/coderaven"}
+    - {name: "github", link: "https://twitter.com/imraven"}
+- 
+  id: 16
+  name: "Gerardo"
+  surname: "Guangco"
+  company: "Xavier University"
+  title: "Google Student Ambassador"
+  bio: 'Josan Astrid Dometita is an HTML5 enthusiast and the Google Developer Group Community Manager for Cagayan de Oro City. Having the interest in the complex ins and outs of computer technology made her earn her Bachelor’s Degree in Computer Science, with a major in Software Engineering. While still in school, she started freelancing online as a web developer, and expanded her portfolio of skills to become a vector artist and motion graphics animator. She started working as a Multimedia Developer in Manila and together with her friends, then built their own consulting and startup company, Aestrea Software Development, where she is the Creative Director. She calls herself codesigner (coder/designer), a hybrid name that could best describe her skill set, bridging the gap between both the design and development worlds.'
+  thumbnailUrl: Gerardo.jpg
+  rockstar: false
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/109777245615877849664/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+RavenDuran231/posts"}
+    - {name: "twitter", link: "https://github.com/coderaven"}
+    - {name: "github", link: "https://twitter.com/imraven"}
+- 
+  id: 17
+  name: "Jeffry"
+  surname: "Manhulad"
+  company: "Liceo de Cagayan University"
+  title: "Google Student Ambassador"
+  bio: 'Josan Astrid Dometita is an HTML5 enthusiast and the Google Developer Group Community Manager for Cagayan de Oro City. Having the interest in the complex ins and outs of computer technology made her earn her Bachelor’s Degree in Computer Science, with a major in Software Engineering. While still in school, she started freelancing online as a web developer, and expanded her portfolio of skills to become a vector artist and motion graphics animator. She started working as a Multimedia Developer in Manila and together with her friends, then built their own consulting and startup company, Aestrea Software Development, where she is the Creative Director. She calls herself codesigner (coder/designer), a hybrid name that could best describe her skill set, bridging the gap between both the design and development worlds.'
+  thumbnailUrl: Jeffry.jpg
+  rockstar: false
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/109777245615877849664/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+RavenDuran231/posts"}
+    - {name: "twitter", link: "https://github.com/coderaven"}
+    - {name: "github", link: "https://twitter.com/imraven"}
+- 
+  id: 18
+  name: "Paul"
+  surname: "Labis"
+  company: "Java Dev Knot"
+  title: "Community Lead"
+  bio: 'Josan Astrid Dometita is an HTML5 enthusiast and the Google Developer Group Community Manager for Cagayan de Oro City. Having the interest in the complex ins and outs of computer technology made her earn her Bachelor’s Degree in Computer Science, with a major in Software Engineering. While still in school, she started freelancing online as a web developer, and expanded her portfolio of skills to become a vector artist and motion graphics animator. She started working as a Multimedia Developer in Manila and together with her friends, then built their own consulting and startup company, Aestrea Software Development, where she is the Creative Director. She calls herself codesigner (coder/designer), a hybrid name that could best describe her skill set, bridging the gap between both the design and development worlds.'
+  thumbnailUrl: RavenDuran.jpg
+  rockstar: false
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/109777245615877849664/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+RavenDuran231/posts"}
+    - {name: "twitter", link: "https://github.com/coderaven"}
+    - {name: "github", link: "https://twitter.com/imraven"}
+- 
+  id: 19
+  name: "Bot"
+  surname: "Pena"
+  company: "Mindanao Ruby Users Group"
+  title: "Community Lead"
+  bio: 'Josan Astrid Dometita is an HTML5 enthusiast and the Google Developer Group Community Manager for Cagayan de Oro City. Having the interest in the complex ins and outs of computer technology made her earn her Bachelor’s Degree in Computer Science, with a major in Software Engineering. While still in school, she started freelancing online as a web developer, and expanded her portfolio of skills to become a vector artist and motion graphics animator. She started working as a Multimedia Developer in Manila and together with her friends, then built their own consulting and startup company, Aestrea Software Development, where she is the Creative Director. She calls herself codesigner (coder/designer), a hybrid name that could best describe her skill set, bridging the gap between both the design and development worlds.'
+  thumbnailUrl: Botp.jpg
+  rockstar: false
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/109777245615877849664/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+RavenDuran231/posts"}
+    - {name: "twitter", link: "https://github.com/coderaven"}
+    - {name: "github", link: "https://twitter.com/imraven"}
+- 
+  id: 20
+  name: "Christian Drey"
+  surname: "Lumen"
+  company: "Google Business Group"
+  title: "Co-Community Lead"
+  bio: 'Josan Astrid Dometita is an HTML5 enthusiast and the Google Developer Group Community Manager for Cagayan de Oro City. Having the interest in the complex ins and outs of computer technology made her earn her Bachelor’s Degree in Computer Science, with a major in Software Engineering. While still in school, she started freelancing online as a web developer, and expanded her portfolio of skills to become a vector artist and motion graphics animator. She started working as a Multimedia Developer in Manila and together with her friends, then built their own consulting and startup company, Aestrea Software Development, where she is the Creative Director. She calls herself codesigner (coder/designer), a hybrid name that could best describe her skill set, bridging the gap between both the design and development worlds.'
+  thumbnailUrl: RavenDuran.jpg
+  rockstar: false
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/109777245615877849664/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+RavenDuran231/posts"}
+    - {name: "twitter", link: "https://github.com/coderaven"}
+    - {name: "github", link: "https://twitter.com/imraven"}
+- 
+  id: 21
+  name: "Alma"
+  surname: "Ebuna"
+  company: "Google Business Group"
+  title: "Co-Community Lead"
+  bio: 'Josan Astrid Dometita is an HTML5 enthusiast and the Google Developer Group Community Manager for Cagayan de Oro City. Having the interest in the complex ins and outs of computer technology made her earn her Bachelor’s Degree in Computer Science, with a major in Software Engineering. While still in school, she started freelancing online as a web developer, and expanded her portfolio of skills to become a vector artist and motion graphics animator. She started working as a Multimedia Developer in Manila and together with her friends, then built their own consulting and startup company, Aestrea Software Development, where she is the Creative Director. She calls herself codesigner (coder/designer), a hybrid name that could best describe her skill set, bridging the gap between both the design and development worlds.'
+  thumbnailUrl: RavenDuran.jpg
+  rockstar: false
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/109777245615877849664/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+RavenDuran231/posts"}
+    - {name: "twitter", link: "https://github.com/coderaven"}
+    - {name: "github", link: "https://twitter.com/imraven"}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
