@@ -88,10 +88,25 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/109777245615877849664/"}
     - {abbr: "GSA", title: "Google Student Ambassador", url: "https://plus.google.com/114229220484006448933/posts"}
-
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+RavenDuran231/posts"}
     - {name: "twitter", link: "https://github.com/coderaven"}
     - {name: "github", link: "https://twitter.com/imraven"}
+- 
+  id: 10
+  name: "Geoff"
+  surname: "Diaz"
+  company: "Webnified"
+  title: "Software Engineer"
+  bio: 'Josan Astrid Dometita is an HTML5 enthusiast and the Google Developer Group Community Manager for Cagayan de Oro City. Having the interest in the complex ins and outs of computer technology made her earn her Bachelor’s Degree in Computer Science, with a major in Software Engineering. While still in school, she started freelancing online as a web developer, and expanded her portfolio of skills to become a vector artist and motion graphics animator. She started working as a Multimedia Developer in Manila and together with her friends, then built their own consulting and startup company, Aestrea Software Development, where she is the Creative Director. She calls herself codesigner (coder/designer), a hybrid name that could best describe her skill set, bridging the gap between both the design and development worlds.'
+  thumbnailUrl: RavenDuran.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/109777245615877849664/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+RavenDuran231/posts"}
+    - {name: "twitter", link: "https://github.com/coderaven"}
+    - {name: "github", link: "https://twitter.com/imraven"}
+
 
 
