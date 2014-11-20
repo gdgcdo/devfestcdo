@@ -7,6 +7,8 @@
   bio: "Amit is a globetrotter who started his career working in Dubai in 1991. He specialised in Financial Accounting Software. Moved back to Delhi in 1993 working for Digital Equipment Corporation. Got hired by Microsoft in 1994 to be the pre-sale evangelist for Windows 95! Then by Sun Microsystems in 1997 to evangelise Java in India and Singapore. He decided to pursue higher studies and went to Sydney where he got hired by PricewaterhouseCoopers halfway through his Masters as they really got interested in a technology to exchange documents that he was working on as his masters project. In 2000 Microsoft hired him back in Developer Tools groups. He have worked on 6+ releases of Visual Studio product in the last 13 years on a variety of features and developer facing programs. During 2011-13, he once again travelled the world to complete the Global MBA program from the Anderson Business School and the National University of Singapore. And if for some reason he had not stumbled upon a career in Software development, he would have been a Chef! Apart from cooking, he enjoy watching movies and try to spend at least 2-3 hours a week KickBoxing."
   thumbnailUrl: amit-chopra.jpg
   rockstar: true
+  ribbon: 
+    - {abbr: "Google", title: "Google Southeast Asia", url: "http://googleasiapacific.blogspot.com/"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+AmitChopraGoogle/"}
 - 
@@ -37,19 +39,16 @@
     - {name: "twitter", link: "https://twitter.com/benj_tupas"}
 - 
   id: 6
-  name: "Jon"
-  surname: "Doblados"
-  company: "Xavier University, GBG CDO"
-  title: "IT Consultant, Systems Administrator"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
+  name: "Pia"
+  surname: "Bernal"
+  company: "Kickstart Ventures"
+  title: "Social Enterprise Investments Manager and Communications Head"
+  bio: "Pia joined Kickstart Ventures in September 2012 as its manager for social enterprise investments.<p>Before Kickstart, Pia was with Globe Telecom for six years managing corporate social responsibility (CSR) programs in education and social protection services that harnessed telco core competencies (mobile and broadband technologies, m-commerce and VAS solutions) to achieve operational efficiencies and scale. Her work on the use of ICT in public schools and working with local and international non-profit organisations and key government agencies for the delivery of social protection services have resulted to user behaviour insights and managing multi-stakeholder expectations in the use of ICT-based solutions.</p><p>Pia holds a Bachelor of Arts in Development Studies from the University of the Philippines in Manila. She has received recognitions and awards from Globe Telecom, the International Association of Business Communicators (IABC/Philippines), Public Relations Society of the Philippines, and the American Chamber CSR Excellence Awards.</p>"
+  thumbnailUrl: PiaBernal.jpg
   rockstar: true
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
+    - {name: "google-plus", link: "https://plus.google.com/109046004225546834214/posts"}
+    - {name: "twitter", link: "https://twitter.com/pia_bernal"}
 - 
   id: 6
   name: "Chelle Gray"
