@@ -26,8 +26,8 @@
   name: "April Joy"
   surname: "Gutierrez"
   title: "Co-Community Lead in Training"
-  thumbnailUrl: Dennis.jpg
-  team: true
+  thumbnailUrl: April.jpg
+  subTeam: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/117093532496972139682/posts"}
     - {name: "twitter", link: "https://twitter.com/p1f"}
@@ -49,6 +49,176 @@
   surname: "Labis"
   title: "Logistics"
   thumbnailUrl: Titang.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 8
+  name: "Dennis"
+  surname: "Bug-os"
+  title: "Sponsorships"
+  thumbnailUrl: Dennis.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 9
+  name: "Edmund"
+  surname: "Salcedo Jr"
+  title: "Logistics"
+  thumbnailUrl: Edmund.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 10
+  name: "Geoff"
+  surname: "Diaz"
+  title: "Technical"
+  thumbnailUrl: Geoff.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 11
+  name: "Gerardo"
+  surname: "Guangco"
+  title: "Technical"
+  thumbnailUrl: Gerardo.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 12
+  name: "Jean"
+  surname: "Parreno"
+  title: "Set and Design"
+  thumbnailUrl: Jean.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 13
+  name: "Jeffry"
+  surname: "Manhulad"
+  title: "Logistics"
+  thumbnailUrl: Jeffry.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 14
+  name: "Jesson"
+  surname: "Solana"
+  title: "Technical"
+  thumbnailUrl: Jesson.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 15
+  name: "Jhai-Jhai"
+  surname: "Maandig"
+  title: "Set and Design"
+  thumbnailUrl: Jhai.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 16
+  name: "Joan"
+  surname: "Sullano-Sheng"
+  title: "Set and Design"
+  thumbnailUrl: Joan.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 17
+  name: "Lux"
+  surname: "Sonquipal"
+  title: "Registration"
+  thumbnailUrl: Lux.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 18
+  name: "Merari"
+  surname: "Cebrian"
+  title: "Program Committee"
+  thumbnailUrl: Merari.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 19
+  name: "Mcoy"
+  surname: "Poquita"
+  title: "Promotions"
+  thumbnailUrl: Mcoy.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 20
+  name: "Nicole"
+  surname: "Lopuz"
+  title: "Promotions"
+  thumbnailUrl: Nicole.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 21
+  name: "RJ"
+  surname: "Igdon"
+  title: "Documentation"
+  thumbnailUrl: RJ.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 22
+  name: "Ruel"
+  surname: "Aballe"
+  title: "Technical"
+  thumbnailUrl: Ruel.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 23
+  name: "Zamina"
+  surname: "Sabenecio"
+  title: "Program Committee"
+  thumbnailUrl: Zamina.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 24
+  name: "Zephaniah"
+  surname: "Ompoc"
+  title: "Technical"
+  thumbnailUrl: Zeph.jpg
   subTeam: true
   social: 
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
