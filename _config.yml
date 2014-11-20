@@ -7,7 +7,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "GDG DevFest CDO 2014"
 email: "gdgcdo@gmail.com"
-description: "GDG DevFest is a set of events all around the world"
+description: "GDG DevFest is an annual developer conference offered by the Google Developer Groups"
 url: "http://devfest.gdgcdo.org"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-56910501-1"
