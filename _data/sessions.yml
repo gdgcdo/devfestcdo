@@ -33,7 +33,7 @@
   title: "Google Communities"
   description: "this session will reveal the invisible structures behind the material design system. designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. they will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
   subtype: keynote
-  speakers: [8, 14, 15, 16, 17]
+  speakers: [8, 14, 15, 9, 16, 17]
   language: en
   complexity: "none"
 -
@@ -41,7 +41,7 @@
   title: "Community Updates"
   description: "Android wear extends the Android platform to a new generation of wearable devices. The user experience is designed specifically for wearables. In this session you’ll see how to use the Android Wear SDK to build a connected cloud-powered application. Using Android Studio and it’s cloud extensions, you’ll see how to build an app that ‘listens’ for changes in stock prices, and notifies a wearable device. You’ll also see how to use voice controls on the device to trigger interactions with the app, such as buying or selling the stock after a notification. Call to action: Get the SDK and start building apps today!"
   subtype: keynote
-  speakers: [13, 18, 19, 20, 21]
+  speakers: [7, 13, 18, 19, 20, 21]
   language: en
   complexity: "none"
 -
