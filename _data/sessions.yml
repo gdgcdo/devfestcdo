@@ -31,7 +31,7 @@
 -
   id: 001
   title: "Google Communities"
-  description: "this session will reveal the invisible structures behind the material design system. designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. they will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
+  description: "This session is all about the Google community updates. Representatives from Google Business, Developer, and Educator Groups will give their community updates. Aside from this, our Google Student Ambassadors will share about the events they have conducted."
   subtype: keynote
   speakers: [8, 14, 15, 9, 16, 17]
   language: en
@@ -39,7 +39,7 @@
 -
   id: 002
   title: "Community Updates"
-  description: "Android wear extends the Android platform to a new generation of wearable devices. The user experience is designed specifically for wearables. In this session you’ll see how to use the Android Wear SDK to build a connected cloud-powered application. Using Android Studio and it’s cloud extensions, you’ll see how to build an app that ‘listens’ for changes in stock prices, and notifies a wearable device. You’ll also see how to use voice controls on the device to trigger interactions with the app, such as buying or selling the stock after a notification. Call to action: Get the SDK and start building apps today!"
+  description: "Aside from the Google Communities, we have other tech communities who woud like to give an update on what they are currently brewing. Let's know more about the Map Maker Community (Google Maps), Robogals CDO (Robotics), Py-Tsada (Python), ITG-X Java Dev Knots (Java), and MinRUG (Ruby)."
   subtype: keynote
   speakers: [7, 13, 18, 19, 20, 21]
   language: en
@@ -47,7 +47,7 @@
 -
   id: 003
   title: "Wearable Technology"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  description: "Know more about Android Wear, Android Lollipop, Cardboard, Chromecast, and more!"
   subtype: engineering
   speakers: [8]
   language: en
@@ -55,7 +55,7 @@
 -
   id: 004
   title: "Mobile App Development"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  description: ""
   subtype: engineering
   speakers: [4]
   language: en
@@ -63,7 +63,7 @@
 -
   id: 005
   title: "Code Labs: HTML5 Game Development"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  description: "Want to create your own HTML5 game? Be sure to attend this Code Lab Session."
   subtype: code labs
   speakers: [5]
   language: en
@@ -71,15 +71,15 @@
 -
   id: 006
   title: "To Be Announced"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  description: "We are doing our best to update this. :)"
   subtype: startup
-  speakers: [7]
+  speakers: []
   language: en
   complexity: "Beginner"
 -
   id: 007
   title: "Cardboard Virtual Reality"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  description: ""
   subtype: engineering
   speakers: [9, 10, 11]
   language: en
@@ -87,7 +87,7 @@
 -
   id: 008
   title: "Startup"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  description: ""
   subtype: startup
   speakers: [6]
   language: en
@@ -95,7 +95,7 @@
 -
   id: 009
   title: "App Monetization"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  description: ""
   subtype: startup
   speakers: [4]
   language: en
@@ -103,7 +103,7 @@
 -
   id: 010
   title: "Code Labs: Google Drive + Python"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  description: ""
   subtype: code labs
   speakers: [7]
   language: en
@@ -111,7 +111,7 @@
 -
   id: 011
   title: "Product Design Sprint"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  description: ""
   subtype: design sprint
   speakers: [12]
   language: en
@@ -119,7 +119,7 @@
 -
   id: 012
   title: "Wearable Design Sprint"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  description: "Womentechmakers: Calling all the Geek Girls out there. We have created this session just for you! Want to meet the Geek Girls of Mindanao? Join us!"
   subtype: design sprint
   speakers: [13]
   language: en

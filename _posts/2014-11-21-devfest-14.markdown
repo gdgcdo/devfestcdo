@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "DevFest is back!"
+date:   2014-11-21 03:30:00
+isStaticPost: true
+---
+
+We're very excited for this year's biggest developer conference offered by our local Google communities.
+Yes, [GDG DevFest CDO](http://devfest.gdgcdo.org/) is back! 
+
+This year, our friends from Capitol University is very kind to host our event.
+
+It's gonna be bigger!
+
+* **Attendance**: we're expecting over 300 attendees
+* **Topic**: more than 28 hours of pure Google technologies 
+* **Date**: 29th of November
+* **Venue**: Capitol University Theatre
+
+Hope to see you soon!
+
+Like us on [Facebook](https://facebook.com/GDGCDO), follow on [Twitter](https://twitter.com/intent/user?screen_name=GDGCDO), add to circles in [Google+](https://plus.google.com/u/0/109777245615877849664/).
