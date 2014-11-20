@@ -11,25 +11,36 @@
     - {name: "google-plus", link: "https://plus.google.com/+AmitChopraGoogle/"}
 - 
   id: 4
-  name: "Josan Astrid"
-  surname: "Dometita"
-  company: "Aestrea Software Development"
-  title: "UI/UX Designer"
-  bio: 'Josan Astrid Dometita is an HTML5 enthusiast and the Google Developer Group Community Manager for Cagayan de Oro City. Having the interest in the complex ins and outs of computer technology made her earn her Bachelor’s Degree in Computer Science, with a major in Software Engineering. While still in school, she started freelancing online as a web developer, and expanded her portfolio of skills to become a vector artist and motion graphics animator. She started working as a Multimedia Developer in Manila and together with her friends, then built their own consulting and startup company, Aestrea Software Development, where she is the Creative Director. She calls herself codesigner (coder/designer), a hybrid name that could best describe her skill set, bridging the gap between both the design and development worlds.'
-  thumbnailUrl: JosanAstrid.jpg
+  name: "Howard"
+  surname: "Go"
+  company: "MochiBits"
+  title: "Mobile Game Developer"
+  bio: "Howard Go is ½ of MochiBits, a game development team born on December 2010. He believes the mobile market allows the casual gamer/user to exist which in turn changes the playing field sufficiently to allow more indie developers to play with the big boys (although in smaller, yet thriving niches). He wants to see more Filipinos populate and succeed in the world of mobile app development (before the big boys make it harder)."
+  thumbnailUrl: HowardGo.jpg
   rockstar: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/109777245615877849664/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+JosanAstridDometita"}
-    - {name: "twitter", link: "https://twitter.com/josanastrid"}
-    - {name: "github", link: "https://github.com/josanastrid"}
+    - {name: "google-plus", link: "https://plus.google.com/116405234814747718124/"}
+    - {name: "twitter", link: "https://twitter.com/mochibits"}
 - 
   id: 5
-  name: "Mateusz"
-  surname: "Herych"
-  company: "Base CRM, GDG Krakow"
-  title: "Software Engineer"
+  name: "Benj"
+  surname: "Tupas"
+  company: "Blueprint Gaming"
+  title: "Game and Framework Developer"
+  bio: 'Benj Tupas graduated from the University of Saint La Salle-Bacolod just this year. Now, he is a Game and Framework Developer at Blueprint Gaming, a company that develops casino games for mobile devices, web platforms, desktops, and arcade machines. He is in-charge in building frameworks that bridge the gap between HTML5 technologies and embedded systems to run HTML5 games on casino slot machines, multiple screens display, and mobile devices.<p>He is the co-manager of Google Developers Group Bacolod. A young technopreneur who founded Codefaci.com to facilitate people in building their ideas into apps and a part time freelancer who develops web applications. Outside his geeky world, he enjoys going to the gym and playing the guitar.</p>'
+  thumbnailUrl: BenjTupas.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/111881770223033262444/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+BenjTupas0420/posts"}
+    - {name: "twitter", link: "https://twitter.com/benj_tupas"}
+- 
+  id: 6
+  name: "Jon"
+  surname: "Doblados"
+  company: "Xavier University, GBG CDO"
+  title: "IT Consultant, Systems Administrator"
   bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
   thumbnailUrl: MateuszHerych.jpg
   rockstar: true
@@ -41,7 +52,7 @@
     - {name: "twitter", link: "https://twitter.com/mherych"}
 - 
   id: 6
-  name: "Roman"
+  name: "Chelle Gray"
   surname: "Mazur"
   company: "Stanfy, GDG Kyiv"
   title: "Head of Android/Java Unit"
@@ -67,3 +78,19 @@
   social: 
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 8
+  name: "Josan Astrid"
+  surname: "Dometita"
+  company: "Aestrea Software Development"
+  title: "UI/UX Designer"
+  bio: 'Josan Astrid Dometita is an HTML5 enthusiast and the Google Developer Group Community Manager for Cagayan de Oro City. Having the interest in the complex ins and outs of computer technology made her earn her Bachelor’s Degree in Computer Science, with a major in Software Engineering. While still in school, she started freelancing online as a web developer, and expanded her portfolio of skills to become a vector artist and motion graphics animator. She started working as a Multimedia Developer in Manila and together with her friends, then built their own consulting and startup company, Aestrea Software Development, where she is the Creative Director. She calls herself codesigner (coder/designer), a hybrid name that could best describe her skill set, bridging the gap between both the design and development worlds.'
+  thumbnailUrl: JosanAstrid.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/109777245615877849664/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+JosanAstridDometita"}
+    - {name: "twitter", link: "https://twitter.com/josanastrid"}
+    - {name: "github", link: "https://github.com/josanastrid"}
+
