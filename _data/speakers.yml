@@ -50,33 +50,17 @@
     - {name: "google-plus", link: "https://plus.google.com/109046004225546834214/posts"}
     - {name: "twitter", link: "https://twitter.com/pia_bernal"}
 - 
-  id: 6
-  name: "Chelle Gray"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
-- 
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  company: "Twinfield, GDG Kyiv"
-  title: "Software engineer/country manager"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
+  name: "Romar"
+  surname: "Micabalo"
+  company: "Caleum Techlogic"
+  title: "Chief Technology Officer"
+  bio: ""
+  thumbnailUrl: RomarMicabalo.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+RomarMayerMicabalo/posts"}
+    - {name: "twitter", link: "https://twitter.com/hardwyrd"}
 - 
   id: 8
   name: "Josan Astrid"
@@ -92,4 +76,22 @@
     - {name: "google-plus", link: "https://plus.google.com/+JosanAstridDometita"}
     - {name: "twitter", link: "https://twitter.com/josanastrid"}
     - {name: "github", link: "https://github.com/josanastrid"}
+- 
+  id: 9
+  name: "Raven"
+  surname: "Duran"
+  company: "Webnified"
+  title: "Chief Executive Officer"
+  bio: 'Josan Astrid Dometita is an HTML5 enthusiast and the Google Developer Group Community Manager for Cagayan de Oro City. Having the interest in the complex ins and outs of computer technology made her earn her Bachelor’s Degree in Computer Science, with a major in Software Engineering. While still in school, she started freelancing online as a web developer, and expanded her portfolio of skills to become a vector artist and motion graphics animator. She started working as a Multimedia Developer in Manila and together with her friends, then built their own consulting and startup company, Aestrea Software Development, where she is the Creative Director. She calls herself codesigner (coder/designer), a hybrid name that could best describe her skill set, bridging the gap between both the design and development worlds.'
+  thumbnailUrl: RavenDuran.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/109777245615877849664/"}
+    - {abbr: "GSA", title: "Google Student Ambassador", url: "https://plus.google.com/114229220484006448933/posts"}
+
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+RavenDuran231/posts"}
+    - {name: "twitter", link: "https://github.com/coderaven"}
+    - {name: "github", link: "https://twitter.com/imraven"}
+
 
