@@ -30,19 +30,17 @@
   subTeam: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/117093532496972139682/posts"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "twitter", link: "https://twitter.com/ambolol"}
 - 
   id: 4
   name: "Andrelin"
-  surname: "Pareno"
+  surname: "Pareño"
   title: "Set and Design"
   thumbnailUrl: Andrelin.jpg
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "google-plus", link: "https://plus.google.com/+AndrelinPare%C3%B1oLive/posts"}
+    - {name: "twitter", link: "https://twitter.com/langskeer"}
 - 
   id: 7
   name: "Christian"
@@ -51,8 +49,8 @@
   thumbnailUrl: Titang.jpg
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "https://plus.google.com/+christianjonreyLabis/posts"}
+    - {name: "twitter", link: "https://twitter.com/titangofficial"}
 - 
   id: 8
   name: "Dennis"
@@ -61,8 +59,8 @@
   thumbnailUrl: Dennis.jpg
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "https://plus.google.com/+DennisJosephBugos/posts"}
+    - {name: "twitter", link: "https://twitter.com/headturnerdj"}
 - 
   id: 9
   name: "Edmund"
@@ -71,8 +69,8 @@
   thumbnailUrl: Edmund.jpg
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "https://plus.google.com/103227275999946899120/posts"}
+    - {name: "twitter", link: "https://twitter.com/EdmundMSalcedoJ"}
 - 
   id: 10
   name: "Geoff"
@@ -81,8 +79,7 @@
   thumbnailUrl: Geoff.jpg
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "https://plus.google.com/115281992384601971122/posts"}
 - 
   id: 11
   name: "Gerardo"
@@ -91,18 +88,17 @@
   thumbnailUrl: Gerardo.jpg
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "https://plus.google.com/+GerardoGuangco/posts"}
+    - {name: "twitter", link: "https://twitter.com/GGuangco"}
 - 
   id: 12
   name: "Jean"
-  surname: "Parreno"
+  surname: "Parreño"
   title: "Set and Design"
   thumbnailUrl: Jean.jpg
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "https://plus.google.com/+jeanparre%C3%B1o11/posts"}
 - 
   id: 13
   name: "Jeffry"
@@ -111,8 +107,8 @@
   thumbnailUrl: Jeffry.jpg
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "https://plus.google.com/+JeffryManhulad/posts"}
+    - {name: "twitter", link: "https://twitter.com/jeffrymanhulad"}
 - 
   id: 14
   name: "Jesson"
@@ -121,8 +117,7 @@
   thumbnailUrl: Jesson.jpg
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "https://plus.google.com/112659194480319308874/posts"}
 - 
   id: 15
   name: "Jhai-Jhai"
@@ -131,8 +126,7 @@
   thumbnailUrl: Jhai.jpg
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "https://plus.google.com/+AlaizaGeeneMaandig/posts"}
 - 
   id: 16
   name: "Joan"
@@ -141,8 +135,8 @@
   thumbnailUrl: Joan.jpg
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "https://plus.google.com/+JoanMercedSullanoShengjmtakashi/posts"}
+    - {name: "twitter", link: "https://twitter.com/ShengJoan"}
 - 
   id: 17
   name: "Lux"
@@ -151,8 +145,8 @@
   thumbnailUrl: Lux.jpg
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "https://plus.google.com/+LuxJustineSonquipal16/posts"}
+    - {name: "twitter", link: "https://twitter.com/Luxerkz"}
 - 
   id: 18
   name: "Merari"
@@ -161,8 +155,7 @@
   thumbnailUrl: Merari.jpg
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "https://plus.google.com/+MerariCebrian/posts"}
 - 
   id: 19
   name: "Mcoy"
@@ -171,8 +164,8 @@
   thumbnailUrl: Mcoy.jpg
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "https://plus.google.com/+MarkIanPoquita/posts"}
+    - {name: "twitter", link: "https://twitter.com/mcoymclog"}
 - 
   id: 20
   name: "Nicole"
@@ -181,8 +174,7 @@
   thumbnailUrl: Nicole.jpg
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "https://plus.google.com/111104818323332888960/posts"}
 - 
   id: 21
   name: "RJ"
@@ -191,8 +183,7 @@
   thumbnailUrl: RJ.jpg
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "https://plus.google.com/115261201789637984019/posts"}
 - 
   id: 22
   name: "Ruel"
@@ -201,8 +192,7 @@
   thumbnailUrl: Ruel.jpg
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "https://plus.google.com/117798801840398618445/posts"}
 - 
   id: 23
   name: "Zamina"
@@ -211,8 +201,8 @@
   thumbnailUrl: Zamina.jpg
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "https://plus.google.com/+MinaSabenecio/posts"}
+    - {name: "twitter", link: "https://twitter.com/zsabenecio"}
 - 
   id: 24
   name: "Zephaniah"
@@ -221,5 +211,5 @@
   thumbnailUrl: Zeph.jpg
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "https://plus.google.com/102350607723430958227/posts"}
+
