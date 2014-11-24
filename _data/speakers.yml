@@ -259,6 +259,19 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/+AlmaHnanguie/posts"}
     - {name: "twitter", link: "https://twitter.com/lifediscourse_"} 
+- 
+  id: 22
+  name: "Valenice"
+  surname: "Balace"
+  company: "Peekawoo"
+  title: "Founder/CEO"
+  bio: ''
+  thumbnailUrl: Val.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+ValeniceBalace"}
+    - {name: "twitter", link: "https://twitter.com/valenice8888"}
+
 
 
 
