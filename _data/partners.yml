@@ -6,4 +6,20 @@
   group: "Venue Sponsor"
   elements: 
     - {name: "Capitol University", description: "Capitol University", link: "https://www.cu.edu.ph", imageUrl: "cu.jpg", width: "160px"}
-
+- 
+  group: "Silver Sponsor"
+  elements: 
+    - {name: "Cleversoft, Inc.", description: "Cleversoft, Inc.", link: "http://www.visp.net/cleversoftinc/", imageUrl: "cleversoft.png", width: "160px"}
+- 
+  group: "Bronze Sponsors"
+  elements: 
+    - {name: "Innovuze Solutions, Inc.", description: "Innovuze Solutions, Inc.", link: "http://www.innovuze.com/", imageUrl: "innovuze.png", width: "160px"}
+    - {name: "Concentrix", description: "Concentrix", link: "https://concentrix.com/", imageUrl: "concentrix.png", width: "160px"}
+- 
+  group: "Print Partner"
+  elements: 
+    - {name: "Aldelo", description: "Aldelo", imageUrl: "aldelo.jpg", width: "160px"}
+- 
+  group: "With Support of"
+  elements: 
+    - {name: "Avera", description: "Avera", imageUrl: "avera.jpg", width: "160px"}
