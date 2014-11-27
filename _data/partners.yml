@@ -9,12 +9,12 @@
 - 
   group: "Silver Sponsor"
   elements: 
-    - {name: "Cleversoft, Inc.", description: "Cleversoft, Inc.", link: "http://www.visp.net/cleversoftinc/", imageUrl: "cleversoft.png", width: "160px"}
+    - {name: "Cleversoft, Inc.", description: "Cleversoft, Inc.", link: "http://www.visp.net/cleversoftinc/", imageUrl: "cleversoft.png", width: "280px"}
 - 
   group: "Bronze Sponsors"
   elements: 
-    - {name: "Innovuze Solutions, Inc.", description: "Innovuze Solutions, Inc.", link: "http://www.innovuze.com/", imageUrl: "innovuze.png", width: "160px"}
-    - {name: "Concentrix", description: "Concentrix", link: "https://concentrix.com/", imageUrl: "concentrix.png", width: "160px"}
+    - {name: "Innovuze Solutions, Inc.", description: "Innovuze Solutions, Inc.", link: "http://www.innovuze.com/", imageUrl: "innovuze.png", width: "200px"}
+    - {name: "Concentrix", description: "Concentrix", link: "https://concentrix.com/", imageUrl: "concentrix.png", width: "200px"}
 - 
   group: "Print Partner"
   elements: 
