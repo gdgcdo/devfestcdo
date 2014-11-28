@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GDG DevFest CDO 2014</title>
-    <description>GDG DevFest is a set of events all around the world</description>
+    <description>GDG DevFest is an annual developer conference offered by the Google Developer Groups</description>
     <link>http://devfest.gdgcdo.org/</link>
     <atom:link href="http://devfest.gdgcdo.org/feed.xml" rel="self" type="application/rss+xml" />
     
