@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GDG DevFest CDO 2014</title>
+    <title>GDG DevFest CDO 2015</title>
     <description>GDG DevFest is an annual developer conference offered by the Google Developer Groups</description>
     <link>http://devfest.gdgcdo.org/</link>
     <atom:link href="http://devfest.gdgcdo.org/feed.xml" rel="self" type="application/rss+xml" />
@@ -9,7 +9,7 @@
       <item>
         <title>DevFest is back!</title>
         <description>&lt;p&gt;We’re very excited for this year’s biggest developer conference offered by our local Google communities.
-Yes, &lt;a href=&quot;http://devfest.gdgcdo.org/&quot;&gt;GDG DevFest CDO&lt;/a&gt; is back! &lt;/p&gt;
+Yes, &lt;a href=&quot;http://devfest.gdgcdo.org/&quot;&gt;GDG DevFest CDO&lt;/a&gt; is back!&lt;/p&gt;
 
 &lt;p&gt;This year, our friends from Capitol University is very kind to host our event.&lt;/p&gt;
 
@@ -17,7 +17,7 @@ Yes, &lt;a href=&quot;http://devfest.gdgcdo.org/&quot;&gt;GDG DevFest CDO&lt;/a&
 
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Attendance&lt;/strong&gt;: we’re expecting over 300 attendees&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Topic&lt;/strong&gt;: more than 28 hours of pure Google technologies &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Topic&lt;/strong&gt;: more than 28 hours of pure Google technologies&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Date&lt;/strong&gt;: 29th of November&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Venue&lt;/strong&gt;: Capitol University Theatre&lt;/li&gt;
 &lt;/ul&gt;

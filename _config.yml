@@ -5,7 +5,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest CDO 2014"
+title: "GDG DevFest CDO 2015"
 email: "gdgcdo@gmail.com"
 description: "GDG DevFest is an annual developer conference offered by the Google Developer Groups"
 url: "http://devfest.gdgcdo.org"
@@ -41,34 +41,34 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
 bottomNavigationLinks:
-  - {link: "http://goo.gl/cyXKlB", text: "Become a delegate"}
+  - {link: "https://goo.gl/uYj0c7", text: "Become a delegate"}
 rightNavigationButtons:
- - {link: "http://goo.gl/cyXKlB", text: "Become a delegate"}
+ - {link: "https://goo.gl/uYj0c7", text: "Become a delegate"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest Cagayan de Oro<br/><typeout>"
-eventDate: "November 29, 2014"
-typeoutTextValues: '"", "2014", "Conference", "Code Labs", "Design Sprints"'
+eventDate: "October 25, 2015"
+typeoutTextValues: '"", "2015", "Conference", "Code Labs", "Sandbox"'
 typeoutFallback: "is back!"
 heroButtons:
  - {permalink: "/schedule/", text: "Schedule"}
- - {link: "http://goo.gl/cyXKlB", text: "Become a delegate"}
+ - {link: "https://goo.gl/uYj0c7", text: "Become a delegate"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Code Labs", image: "codelabs.jpg", text: "Half-day of code labs, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Design Sprints", image: "designsprints.jpg", text: "Fast-track your product development from ideation to customers. Learn the Google Ventures way." }
+ - {title: "Sandbox", image: "explore.jpg", text: "Explore the new gadgets that Google has to offer. Let's go hands-on with Google Cardboard, Chromecast, and more!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "300", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "28", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "19", specialCharacter: "+", info: "speakers", detail: "from CDO and beyond"}
- - {count: "4", specialCharacter: "", info: "parallel tracks", detail: "plus developer sandbox"}
+ - {count: "260", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "8", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
+ - {count: "15", specialCharacter: "+", info: "speakers", detail: "from CDO and beyond"}
+ - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus developer sandbox"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -80,20 +80,20 @@ rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
-locationBlockTitle: "Capitol University"
-eventLocationName: "Theatre"
-eventLocationLink: "http://www.cu.edu.ph/"
-eventStreetAddress: "Corrales/Osmena Avenue"
+locationBlockTitle: "N Hotel"
+eventLocationName: "Lambago Hall"
+eventLocationLink: "http://www.nhotelcdo.com/"
+eventStreetAddress: "Kauswagan Highway"
 eventAddressLocality: "Cagayan de Oro"
 eventAddressLocalityRegion: "Misamis Oriental"
 eventPostalCode: "9000"
 eventAddressCountry: "Philippines"
-eventStartTime: "2014-11-29T09:00"
+eventStartTime: "2015-11-29T09:00"
 eventDoorTime: "08:00"
-eventEndTime: "2014-11-29T17:00"
-eventPlaceCoordinates: "8.488392, 124.652256"
-mapCenterCoordinates: "8.488392, 124.652256"
-mapMobileCenterCoordinates: "8.488392, 124.652256"
+eventEndTime: "2015-11-29T17:00"
+eventPlaceCoordinates: "8.4967719, 124.6291268"
+mapCenterCoordinates: "8.4967719, 124.6291268"
+mapMobileCenterCoordinates: "8.4967719, 124.6291268"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -101,14 +101,14 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Capitol University"
-venueFeatures: ["Theatre", "Audio-Visual Rooms", "Computer Labs"]
+venueTitle: "N Hotel"
+venueFeatures: ["Lambago Hall", "Function Rooms"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "DevFestCDO14"
-twitterFeed: "https://twitter.com/search?q=%23devfestcdo14&src=typd"
+twitterHashTag: "DevFestCDO15"
+twitterFeed: "https://twitter.com/search?q=%23devfestcdo15&src=typd"
 
 # Partners Block
 partnersTitle: "Partners"
@@ -117,7 +117,7 @@ partnersTitle: "Partners"
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
 subscribeAction: "http://eepurl.com/8TnuX"
-subscribeInfo: "Registration will be closed on November 23. Number of slots are limited. Keep posted!"
+subscribeInfo: "Registration will be closed on October 20. Number of slots are limited. Keep posted!"
 
 # Footer
 socialLinks:
