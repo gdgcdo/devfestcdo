@@ -1,147 +1,296 @@
--
+- 
   id: 0
   name: "Josan Astrid"
   surname: "Dometita"
   title: "Community Lead"
   thumbnailUrl: JosanAstrid.jpg
   team: true
-  social:
+  social: 
     - {name: "google-plus", link: "https://plus.google.com/+JosanAstridDometita"}
     - {name: "twitter", link: "https://twitter.com/josanastrid"}
     - {name: "github", link: "https://github.com/josanastrid"}
     - {name: "site", link: "http://www.aestrea.com"}
--
+- 
   id: 1
   name: "Paul Michael"
   surname: "Labis"
   title: "Resident Co-Community Lead"
   thumbnailUrl: PaulLabis.jpg
   team: true
-  social:
+  social: 
     - {name: "google-plus", link: "https://plus.google.com/+PaulMichaelLabis/posts"}
     - {name: "github", link: "https://github.com/paullabis"}
     - {name: "site", link: "http://www.mangiumsoftware.com"}
--
+- 
   id: 2
   name: "April Joy"
   surname: "Gutierrez"
   title: "Co-Community Lead in Training"
   thumbnailUrl: April.jpg
   subTeam: true
-  social:
+  social: 
     - {name: "google-plus", link: "https://plus.google.com/117093532496972139682/posts"}
     - {name: "twitter", link: "https://twitter.com/ambolol"}
--
+- 
   id: 4
   name: "Andrelin"
   surname: "Pareño"
   title: "Set and Design"
   thumbnailUrl: Andrelin.jpg
   subTeam: true
-  social:
+  social: 
     - {name: "google-plus", link: "https://plus.google.com/+AndrelinPare%C3%B1oLive/posts"}
     - {name: "twitter", link: "https://twitter.com/langskeer"}
--
+- 
   id: 7
   name: "Christian"
   surname: "Labis"
   title: "Logistics"
   thumbnailUrl: Titang.jpg
   subTeam: true
-  social:
+  social: 
     - {name: "google-plus", link: "https://plus.google.com/+christianjonreyLabis/posts"}
     - {name: "twitter", link: "https://twitter.com/titangofficial"}
--
+- 
   id: 8
   name: "Dennis"
   surname: "Bug-os"
   title: "Sponsorships"
   thumbnailUrl: Dennis.jpg
   subTeam: true
-  social:
+  social: 
     - {name: "google-plus", link: "https://plus.google.com/+DennisJosephBugos/posts"}
     - {name: "twitter", link: "https://twitter.com/headturnerdj"}
--
+- 
   id: 9
   name: "Edmund"
   surname: "Salcedo Jr"
   title: "Logistics"
   thumbnailUrl: Edmund.jpg
   subTeam: true
-  social:
+  social: 
     - {name: "google-plus", link: "https://plus.google.com/103227275999946899120/posts"}
     - {name: "twitter", link: "https://twitter.com/EdmundMSalcedoJ"}
--
+- 
   id: 10
   name: "Geoff"
   surname: "Diaz"
   title: "Technical"
   thumbnailUrl: Geoff.jpg
   subTeam: true
-  social:
+  social: 
     - {name: "google-plus", link: "https://plus.google.com/115281992384601971122/posts"}
--
+- 
+  id: 11
+  name: "Gerardo"
+  surname: "Guangco"
+  title: "Technical"
+  thumbnailUrl: Gerardo.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+GerardoGuangco/posts"}
+    - {name: "twitter", link: "https://twitter.com/GGuangco"}
+- 
   id: 12
   name: "Jean"
   surname: "Parreño"
   title: "Set and Design"
   thumbnailUrl: Jean.jpg
   subTeam: true
-  social:
+  social: 
     - {name: "google-plus", link: "https://plus.google.com/+jeanparre%C3%B1o11/posts"}
--
+- 
+  id: 13
+  name: "Jeffry"
+  surname: "Manhulad"
+  title: "Logistics"
+  thumbnailUrl: Jeffry.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+JeffryManhulad/posts"}
+    - {name: "twitter", link: "https://twitter.com/jeffrymanhulad"}
+- 
   id: 14
   name: "Jesson"
   surname: "Solana"
   title: "Technical"
   thumbnailUrl: Jesson.jpg
   subTeam: true
-  social:
+  social: 
     - {name: "google-plus", link: "https://plus.google.com/112659194480319308874/posts"}
--
+- 
   id: 15
   name: "Jhai-Jhai"
   surname: "Maandig"
   title: "Set and Design"
   thumbnailUrl: Jhai.jpg
   subTeam: true
-  social:
+  social: 
     - {name: "google-plus", link: "https://plus.google.com/+AlaizaGeeneMaandig/posts"}
--
+- 
   id: 16
   name: "Joan"
   surname: "Sullano-Sheng"
   title: "Set and Design"
   thumbnailUrl: Joan.jpg
   subTeam: true
-  social:
+  social: 
     - {name: "google-plus", link: "https://plus.google.com/+JoanMercedSullanoShengjmtakashi/posts"}
     - {name: "twitter", link: "https://twitter.com/ShengJoan"}
--
+- 
   id: 17
   name: "Lux"
   surname: "Sonquipal"
   title: "Registration"
   thumbnailUrl: Lux.jpg
   subTeam: true
-  social:
+  social: 
     - {name: "google-plus", link: "https://plus.google.com/+LuxJustineSonquipal16/posts"}
     - {name: "twitter", link: "https://twitter.com/Luxerkz"}
--
+- 
+  id: 18
+  name: "Merari"
+  surname: "Cebrian"
+  title: "Program Committee"
+  thumbnailUrl: Merari.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+MerariCebrian/posts"}
+- 
+  id: 19
+  name: "Mcoy"
+  surname: "Poquita"
+  title: "Promotions"
+  thumbnailUrl: Mcoy.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+MarkIanPoquita/posts"}
+    - {name: "twitter", link: "https://twitter.com/mcoymclog"}
+- 
+  id: 20
+  name: "Nicole"
+  surname: "Lopuz"
+  title: "Promotions"
+  thumbnailUrl: Nicole.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/111104818323332888960/posts"}
+- 
   id: 21
   name: "RJ"
   surname: "Igdon"
   title: "Documentation"
   thumbnailUrl: RJ.jpg
   subTeam: true
-  social:
+  social: 
     - {name: "google-plus", link: "https://plus.google.com/115261201789637984019/posts"}
--
+- 
+  id: 22
+  name: "Ruel"
+  surname: "Aballe"
+  title: "Technical"
+  thumbnailUrl: Ruel.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/117798801840398618445/posts"}
+- 
+  id: 23
+  name: "Zamina"
+  surname: "Sabenecio"
+  title: "Program Committee"
+  thumbnailUrl: Zamina.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+MinaSabenecio/posts"}
+    - {name: "twitter", link: "https://twitter.com/zsabenecio"}
+- 
   id: 24
   name: "Zephaniah"
   surname: "Ompoc"
   title: "Technical"
   thumbnailUrl: Zeph.jpg
   subTeam: true
-  social:
+  social: 
     - {name: "google-plus", link: "https://plus.google.com/102350607723430958227/posts"}
+- 
+  id: 25
+  name: "Zarah"
+  surname: "Fabricante"
+  title: "Iligan Sub-Community Lead"
+  thumbnailUrl: Zarah.jpg
+  iligan: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/104518610960937125933/posts"} 
+- 
+  id: 26
+  name: "Arven"
+  surname: "Aguilar"
+  title: "Geek Squad"
+  thumbnailUrl: Arven.jpg
+  iligan: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/111222516379208831306/posts"}  
+- 
+  id: 27
+  name: "James Leo"
+  surname: "Mayol"
+  title: "Geek Squad"
+  thumbnailUrl: James_M.jpg
+  iligan: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+JamesLeoMayol/posts"}
+-
+  id: 28
+  name: "Kieth Mark"
+  surname: "Bandiola"
+  title: "Geek Squad"
+  thumbnailUrl: Kieth_B.jpg
+  iligan: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+kiethmarkbandiola/posts"}
+- 
+  id: 29
+  name: "Von"
+  surname: "Ambolode"
+  title: "Technical"
+  thumbnailUrl: Von.jpg
+  iligan: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/114689591462127039493/posts"}
+-
+  id: 30
+  name: "Roselle"
+  surname: "Ebarle"
+  title: "Geek Squad"
+  thumbnailUrl: Roselle.jpg
+  iligan: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+RoselleEbarle/posts"}
+-
+  id: 31
+  name: "Mazzi"
+  surname: "Amamagid"
+  title: "Logistics"
+  thumbnailUrl: Mazzi.jpg
+  iligan: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+MazziiChua/posts"}
+-
+  id: 32
+  name: "June Karl"
+  surname: "Leopoldo"
+  title: "Geek Squad"
+  thumbnailUrl: JK.jpg
+  iligan: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/110208087930587654123/posts"}
+-
+  id: 33
+  name: "Erwin"
+  surname: "Naval"
+  title: "Technical"
+  thumbnailUrl: Erwin.jpg
+  iligan: true
+  social: 
+    - {name: "google-plus", link: ""}
+-
