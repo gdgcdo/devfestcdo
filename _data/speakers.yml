@@ -1,17 +1,17 @@
-- 
+-
   id: 3
-  name: "Amit"
-  surname: "Chopra"
-  company: "Google Southeast Asia"
-  title: "Developer Relations Program Manager"
-  bio: "Amit is a globetrotter who started his career working in Dubai in 1991. He specialised in Financial Accounting Software. Moved back to Delhi in 1993 working for Digital Equipment Corporation. Got hired by Microsoft in 1994 to be the pre-sale evangelist for Windows 95! Then by Sun Microsystems in 1997 to evangelise Java in India and Singapore. He decided to pursue higher studies and went to Sydney where he got hired by PricewaterhouseCoopers halfway through his Masters as they really got interested in a technology to exchange documents that he was working on as his masters project. In 2000 Microsoft hired him back in Developer Tools groups. He have worked on 6+ releases of Visual Studio product in the last 13 years on a variety of features and developer facing programs. During 2011-13, he once again travelled the world to complete the Global MBA program from the Anderson Business School and the National University of Singapore. And if for some reason he had not stumbled upon a career in Software development, he would have been a Chef! Apart from cooking, he enjoy watching movies and try to spend at least 2-3 hours a week KickBoxing."
-  thumbnailUrl: amit-chopra.jpg
+  name: "Johnny"
+  surname: "Benitez"
+  company: "Google Philippines"
+  title: "Sales Engineer"
+  bio: ""
+  thumbnailUrl: johnny-benitez.jpg
   rockstar: true
-  ribbon: 
-    - {abbr: "Google", title: "Google Southeast Asia", url: "http://googleasiapacific.blogspot.com/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+AmitChopraGoogle/"}
-- 
+  ribbon:
+    - {abbr: "Google", title: "Google Philippines", url: "http://googleasiapacific.blogspot.com/"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/117251788469259982608/posts"}
+-
   id: 4
   name: "Howard"
   surname: "Go"
@@ -20,10 +20,10 @@
   bio: "Howard Go is ½ of MochiBits, a game development team born on December 2010. He believes the mobile market allows the casual gamer/user to exist which in turn changes the playing field sufficiently to allow more indie developers to play with the big boys (although in smaller, yet thriving niches). He wants to see more Filipinos populate and succeed in the world of mobile app development (before the big boys make it harder)."
   thumbnailUrl: HowardGo.jpg
   rockstar: true
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/116405234814747718124/"}
     - {name: "twitter", link: "https://twitter.com/mochibits"}
-- 
+-
   id: 5
   name: "Benj"
   surname: "Tupas"
@@ -32,12 +32,12 @@
   bio: 'Benj Tupas graduated from the University of Saint La Salle-Bacolod just this year. Now, he is a Game and Framework Developer at Blueprint Gaming, a company that develops casino games for mobile devices, web platforms, desktops, and arcade machines. He is in-charge in building frameworks that bridge the gap between HTML5 technologies and embedded systems to run HTML5 games on casino slot machines, multiple screens display, and mobile devices.<p>He is the co-manager of Google Developers Group Bacolod. A young technopreneur who founded Codefaci.com to facilitate people in building their ideas into apps and a part time freelancer who develops web applications. Outside his geeky world, he enjoys going to the gym and playing the guitar.</p>'
   thumbnailUrl: BenjTupas.jpg
   rockstar: true
-  ribbon: 
+  ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/111881770223033262444/"}
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/+BenjTupas0420/posts"}
     - {name: "twitter", link: "https://twitter.com/benj_tupas"}
-- 
+-
   id: 6
   name: "Pia"
   surname: "Bernal"
@@ -46,10 +46,10 @@
   bio: "Pia joined Kickstart Ventures in September 2012 as its manager for social enterprise investments.<p>Before Kickstart, Pia was with Globe Telecom for six years managing corporate social responsibility (CSR) programs in education and social protection services that harnessed telco core competencies (mobile and broadband technologies, m-commerce and VAS solutions) to achieve operational efficiencies and scale. Her work on the use of ICT in public schools and working with local and international non-profit organisations and key government agencies for the delivery of social protection services have resulted to user behaviour insights and managing multi-stakeholder expectations in the use of ICT-based solutions.</p><p>Pia holds a Bachelor of Arts in Development Studies from the University of the Philippines in Manila. She has received recognitions and awards from Globe Telecom, the International Association of Business Communicators (IABC/Philippines), Public Relations Society of the Philippines, and the American Chamber CSR Excellence Awards.</p>"
   thumbnailUrl: PiaBernal.jpg
   rockstar: true
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/109046004225546834214/posts"}
     - {name: "twitter", link: "https://twitter.com/pia_bernal"}
-- 
+-
   id: 7
   name: "Romar"
   surname: "Micabalo"
@@ -60,10 +60,10 @@
   rockstar: true
   ribbon:
     - {abbr: "ITG-X", title: "Information Technology Group - Region X"}
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/+RomarMayerMicabalo/posts"}
     - {name: "twitter", link: "https://twitter.com/hardwyrd"}
-- 
+-
   id: 8
   name: "Josan Astrid"
   surname: "Dometita"
@@ -72,14 +72,14 @@
   bio: 'Josan Astrid Dometita is an HTML5 enthusiast and the Google Developer Group Community Manager for Cagayan de Oro City. Having the interest in the complex ins and outs of computer technology made her earn her Bachelor’s Degree in Computer Science, with a major in Software Engineering. While still in school, she started freelancing online as a web developer, and expanded her portfolio of skills to become a vector artist and motion graphics animator. She started working as a Multimedia Developer in Manila and together with her friends, then built their own consulting and startup company, Aestrea Software Development, where she is the Creative Director. She calls herself codesigner (coder/designer), a hybrid name that could best describe her skill set, bridging the gap between both the design and development worlds.'
   thumbnailUrl: JosanAstrid.jpg
   rockstar: true
-  ribbon: 
+  ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/109777245615877849664/"}
     - {abbr: "ITG-X", title: "Information Technology Group - Region X"}
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/+JosanAstridDometita"}
     - {name: "twitter", link: "https://twitter.com/josanastrid"}
     - {name: "github", link: "https://github.com/josanastrid"}
-- 
+-
   id: 9
   name: "Raven"
   surname: "Duran"
@@ -88,14 +88,14 @@
   bio: ''
   thumbnailUrl: RavenDuran.jpg
   rockstar: true
-  ribbon: 
+  ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/109777245615877849664/"}
     - {abbr: "GSA", title: "Google Student Ambassador", url: "https://plus.google.com/114229220484006448933/posts"}
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/+RavenDuran231/posts"}
     - {name: "github", link: "https://github.com/coderaven"}
     - {name: "twitter", link: "https://twitter.com/imraven"}
-- 
+-
   id: 10
   name: "Geoff"
   surname: "Diaz"
@@ -104,12 +104,12 @@
   bio: ''
   thumbnailUrl: Geoff.jpg
   rockstar: false
-  ribbon: 
+  ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/109777245615877849664/"}
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/115281992384601971122/posts"}
     - {name: "github", link: "https://github.com/diazGeoff"}
-- 
+-
   id: 11
   name: "Edmund"
   surname: "Salcedo Jr"
@@ -118,12 +118,12 @@
   bio: ''
   thumbnailUrl: Edmund.jpg
   rockstar: false
-  ribbon: 
+  ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/109777245615877849664/"}
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/103227275999946899120/posts"}
     - {name: "twitter", link: "https://twitter.com/EdmundMSalcedoJ"}
-- 
+-
   id: 12
   name: "Carlo"
   surname: "Borja"
@@ -132,12 +132,12 @@
   bio: 'Carlo Borja is an Online Marketing Specialist specializing in digital marketing, social media, search engine optimization and general inbound marketing.<p>He is currently the head of online marketing for Staff.com, a global recruitment platform and Time Doctor, a time management software.</p><p>Apart from his online career, he is also the community co-manager for social media of GBG Cagayan de Oro handling all web related concerns and organizing events for the growing business community in the city.</p><p>In addition to that, he is also a youth pastor at a local church while at the same time a musical director of a worship team.</p>'
   thumbnailUrl: Carlo.jpg
   rockstar: true
-  ribbon: 
+  ribbon:
     - {abbr: "GBG", title: "Google Business Group", url: "http://gbgcagayandeoro.blogspot.com/"}
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/+CarloBorja/posts"}
     - {name: "twitter", link: "https://twitter.com/carloborja"}
-- 
+-
   id: 13
   name: "Shay"
   surname: "Ramos"
@@ -146,9 +146,9 @@
   bio: ''
   thumbnailUrl: Shay.jpg
   rockstar: true
-  social: 
+  social:
     - {name: "site", link: "http://www.robogals.org/"}
-- 
+-
   id: 14
   name: "Jon"
   surname: "Doblados"
@@ -157,12 +157,12 @@
   bio: ''
   thumbnailUrl: JonDoblados.jpg
   rockstar: false
-  ribbon: 
+  ribbon:
     - {abbr: "GBG", title: "Google Business Group", url: "http://gbgcagayandeoro.blogspot.com/"}
     - {abbr: "ITG-X", title: "Information Technology Group - Region X"}
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/+JonDoblados/posts"}
-- 
+-
   id: 15
   name: "Roxanne"
   surname: "Fuentes"
@@ -171,11 +171,11 @@
   bio: ''
   thumbnailUrl: Rox.jpg
   rockstar: false
-  ribbon: 
+  ribbon:
     - {abbr: "GEG", title: "Google Educator Group"}
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/+RoxanneHambre/posts"}
-- 
+-
   id: 16
   name: "Gerardo"
   surname: "Guangco"
@@ -184,13 +184,13 @@
   bio: ''
   thumbnailUrl: Gerardo.jpg
   rockstar: false
-  ribbon: 
+  ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/109777245615877849664/"}
     - {abbr: "GSA", title: "Google Student Ambassador", url: "https://plus.google.com/114229220484006448933/"}
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/+GerardoGuangco/posts"}
     - {name: "twitter", link: "https://twitter.com/GGuangco"}
-- 
+-
   id: 17
   name: "Jeffry"
   surname: "Manhulad"
@@ -199,13 +199,13 @@
   bio: ''
   thumbnailUrl: Jeffry.jpg
   rockstar: false
-  ribbon: 
+  ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/109777245615877849664/"}
     - {abbr: "GSA", title: "Google Student Ambassador", url: "https://plus.google.com/114229220484006448933/"}
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/+JeffryManhulad/posts"}
     - {name: "twitter", link: "https://twitter.com/jeffrymanhulad"}
-- 
+-
   id: 18
   name: "Paul"
   surname: "Labis"
@@ -214,13 +214,13 @@
   bio: ''
   thumbnailUrl: PaulLabis.jpg
   rockstar: false
-  ribbon: 
+  ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/109777245615877849664/"}
     - {abbr: "ITG-X", title: "Information Technology Group - Region X"}
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/+PaulMichaelLabis/posts"}
     - {name: "github", link: "https://github.com/paullabis"}
-- 
+-
   id: 19
   name: "Bot"
   surname: "Peña"
@@ -229,9 +229,9 @@
   bio: '.'
   thumbnailUrl: Botp.jpg
   rockstar: false
-  ribbon: 
+  ribbon:
     - {abbr: "ITG-X", title: "Information Technology Group - Region X"}
-- 
+-
   id: 20
   name: "Christian Drey"
   surname: "Lumen"
@@ -240,12 +240,12 @@
   bio: ''
   thumbnailUrl: Drey.jpg
   rockstar: false
-  ribbon: 
+  ribbon:
     - {abbr: "GBG", title: "Google Business Group", url: "http://gbgcagayandeoro.blogspot.com/"}
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/+ChristianDrey/posts"}
     - {name: "twitter", link: "https://twitter.com/DreyRaikkonen"}
-- 
+-
   id: 21
   name: "Alma"
   surname: "Hnanguie"
@@ -254,12 +254,12 @@
   bio: ''
   thumbnailUrl: Alma.jpg
   rockstar: false
-  ribbon: 
+  ribbon:
     - {abbr: "GBG", title: "Google Business Group", url: "http://gbgcagayandeoro.blogspot.com/"}
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/+AlmaHnanguie/posts"}
-    - {name: "twitter", link: "https://twitter.com/lifediscourse_"} 
-- 
+    - {name: "twitter", link: "https://twitter.com/lifediscourse_"}
+-
   id: 22
   name: "Valenice"
   surname: "Balace"
@@ -268,20 +268,6 @@
   bio: ''
   thumbnailUrl: Val.jpg
   rockstar: true
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/+ValeniceBalace"}
     - {name: "twitter", link: "https://twitter.com/valenice8888"}
-
-
-
-
-
-
-
-
-
-
-
-
-
-

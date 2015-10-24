@@ -1,11 +1,10 @@
-- 
-  date: "2014-11-29"
-  dateReadable: "November 29"
-  tracks: 
-    - {title: "Engineering", color: "#90be4e"}
-    - {title: "Startups", color: "#03a9f4"}
-    - {title: "Code Labs", color: "#e91e63"}
-    - {title: "Design Sprints", color: "#8e24aa"}
+-
+  date: "2015-10-25"
+  dateReadable: "October 25"
+  tracks:
+    - {title: "Play", color: "#90be4e"}
+    - {title: "Experiment", color: "#03a9f4"}
+    - {title: "Web", color: "#e91e63"}
   timeslots:
     - {
     	startTime: "08:00",
@@ -57,9 +56,3 @@
     	endTime: "17:00",
     	sessionIds: [111]
     }
-
-
-
-
-
-

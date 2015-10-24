@@ -31,7 +31,7 @@
 -
   id: 001
   title: "Google Communities"
-  description: "This session is all about the Google community updates. Representatives from Google Business, Developer, and Educator Groups will give their community updates. Aside from this, our Google Student Ambassadors will share about the events they have conducted."
+  description: "This session is all about the Google community updates. Representatives from Google Developer Group Sub-Chapters will share their experiences."
   subtype: keynote
   speakers: [8, 14, 15, 9, 16, 17]
   language: en
@@ -108,19 +108,3 @@
   speakers: [7]
   language: en
   complexity: "Intermediate"
--
-  id: 011
-  title: "Product Design Sprint"
-  description: ""
-  subtype: design sprint
-  speakers: [12]
-  language: en
-  complexity: "Beginner"
--
-  id: 012
-  title: "Wearable Design Sprint"
-  description: "Womentechmakers: Calling all the Geek Girls out there. We have created this session just for you! Want to meet the Geek Girls of Mindanao? Join us!"
-  subtype: design sprint
-  speakers: [13]
-  language: en
-  complexity: "Beginner"
