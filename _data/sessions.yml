@@ -33,7 +33,7 @@
   title: "Google Communities"
   description: "This session is all about the Google community updates. Representatives from Google Developer Group Sub-Chapters will share their experiences."
   subtype: keynote
-  speakers: [8, 14, 15, 9, 16, 17]
+  speakers: [8]
   language: en
   complexity: "none"
 -
@@ -41,15 +41,15 @@
   title: "Firebase"
   description: "Build cross-platform native mobile and web apps with our Android, iOS, and JavaScript SDKs. You can also connect Firebase to your existing backend using our server-side libraries or our REST API."
   subtype: keynote
-  speakers: [7, 13, 18, 19, 20, 21]
+  speakers: [5]
   language: en
-  complexity: "none"
+  complexity: "Beginner"
 -
   id: 003
   title: "Codelabs: Android / Cardboard"
   description: "Know more about Android Wear, Android Lollipop, Cardboard, Chromecast, and more!"
   subtype: play
-  speakers: [8]
+  speakers: [10, 11]
   language: en
   complexity: "Beginner"
 -
@@ -57,7 +57,7 @@
   title: "Codelabs: Android / Cardboard"
   description: "Learn how to create apps for Google Cardboard."
   subtype: play
-  speakers: [4]
+  speakers: [10, 11]
   language: en
   complexity: "Beginner"
 -
@@ -65,7 +65,7 @@
   title: "Codelabs: Python + Google Calendar API"
   description: "Learn more about python. Be sure to attend this Code Lab Session."
   subtype: web
-  speakers: [5]
+  speakers: [7]
   language: en
   complexity: "Beginner"
 -
@@ -73,7 +73,7 @@
   title: "Codelabs: Arduino/Adafruit Gemma"
   description: "Hands-on with Adafruit's Gemma Kit, a DIY wearable kit."
   subtype: experiment
-  speakers: [22]
+  speakers: [8]
   language: en
   complexity: "Beginner"
 -
@@ -81,30 +81,22 @@
   title: "Closing and Raffle"
   description: ""
   subtype: engineering
-  speakers: [9, 10, 11]
+  speakers: [9, 12]
   language: en
-  complexity: "Intermediate"
+  complexity: "none"
 -
   id: 008
-  title: "Startup"
+  title: "Cross-Platform Mobile Development"
   description: ""
-  subtype: startup
+  subtype: experiment
   speakers: [6]
   language: en
   complexity: "Beginner"
 -
-  id: 009
-  title: "App Monetization"
+  id: 010
+  title: "Codelabs: Polymer"
   description: ""
-  subtype: startup
+  subtype: web
   speakers: [4]
   language: en
   complexity: "Beginner"
--
-  id: 010
-  title: "Code Labs: Google Drive + Python"
-  description: ""
-  subtype: code labs
-  speakers: [7]
-  language: en
-  complexity: "Intermediate"

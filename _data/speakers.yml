@@ -13,42 +13,37 @@
     - {name: "google-plus", link: "https://plus.google.com/117251788469259982608/posts"}
 -
   id: 4
-  name: "Howard"
-  surname: "Go"
-  company: "MochiBits"
-  title: "Mobile Game Developer"
-  bio: "Howard Go is ½ of MochiBits, a game development team born on December 2010. He believes the mobile market allows the casual gamer/user to exist which in turn changes the playing field sufficiently to allow more indie developers to play with the big boys (although in smaller, yet thriving niches). He wants to see more Filipinos populate and succeed in the world of mobile app development (before the big boys make it harder)."
-  thumbnailUrl: HowardGo.jpg
+  name: "Ralph"
+  surname: "Regalado"
+  company: "De La Salle University"
+  title: "Polymer"
+  bio: ""
+  thumbnailUrl: ralph-regalado.jpg
   rockstar: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/116405234814747718124/"}
-    - {name: "twitter", link: "https://twitter.com/mochibits"}
+    - {name: "twitter", link: "https://twitter.com/regalandroid"}
 -
   id: 5
-  name: "Benj"
-  surname: "Tupas"
-  company: "Blueprint Gaming"
-  title: "Game and Framework Developer"
-  bio: 'Benj Tupas graduated from the University of Saint La Salle-Bacolod just this year. Now, he is a Game and Framework Developer at Blueprint Gaming, a company that develops casino games for mobile devices, web platforms, desktops, and arcade machines. He is in-charge in building frameworks that bridge the gap between HTML5 technologies and embedded systems to run HTML5 games on casino slot machines, multiple screens display, and mobile devices.<p>He is the co-manager of Google Developers Group Bacolod. A young technopreneur who founded Codefaci.com to facilitate people in building their ideas into apps and a part time freelancer who develops web applications. Outside his geeky world, he enjoys going to the gym and playing the guitar.</p>'
-  thumbnailUrl: BenjTupas.jpg
+  name: "Albert"
+  surname: "Padin"
+  company: "sym.ph"
+  title: "Firebase"
+  bio: ""
+  thumbnailUrl: albert-padin.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/111881770223033262444/"}
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+BenjTupas0420/posts"}
-    - {name: "twitter", link: "https://twitter.com/benj_tupas"}
+    - {name: "twitter", link: "https://twitter.com/albertpadin"}
 -
   id: 6
-  name: "Pia"
-  surname: "Bernal"
-  company: "Kickstart Ventures"
-  title: "Social Enterprise Investments Manager and Communications Head"
-  bio: "Pia joined Kickstart Ventures in September 2012 as its manager for social enterprise investments.<p>Before Kickstart, Pia was with Globe Telecom for six years managing corporate social responsibility (CSR) programs in education and social protection services that harnessed telco core competencies (mobile and broadband technologies, m-commerce and VAS solutions) to achieve operational efficiencies and scale. Her work on the use of ICT in public schools and working with local and international non-profit organisations and key government agencies for the delivery of social protection services have resulted to user behaviour insights and managing multi-stakeholder expectations in the use of ICT-based solutions.</p><p>Pia holds a Bachelor of Arts in Development Studies from the University of the Philippines in Manila. She has received recognitions and awards from Globe Telecom, the International Association of Business Communicators (IABC/Philippines), Public Relations Society of the Philippines, and the American Chamber CSR Excellence Awards.</p>"
-  thumbnailUrl: PiaBernal.jpg
+  name: "Dan Albert"
+  surname: "Pacquiao"
+  company: "Cleversoft, Inc."
+  title: "Cross-Platform Mobile Development"
+  bio: "Dan Pacquiao is a developer by profession and currently the Vice President of Cleversoft, Inc. -- the research and development arm of Visp.net. He is affiliated with DevCon, Java Dev Knots-ITG, CDO-ICT Business Council, ITG-X, and Google Developers Group. Apart from developing apps, softwares, and websites, he finds his passion in blogging and photography during his free time.</p>"
+  thumbnailUrl: dan-pacquiao.jpg
   rockstar: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/109046004225546834214/posts"}
-    - {name: "twitter", link: "https://twitter.com/pia_bernal"}
+    - {name: "google-plus", link: "https://plus.google.com/+DanPacquiao"}
 -
   id: 7
   name: "Romar"
@@ -81,25 +76,20 @@
     - {name: "github", link: "https://github.com/josanastrid"}
 -
   id: 9
-  name: "Raven"
-  surname: "Duran"
-  company: "Webnified"
-  title: "Chief Executive Officer"
+  name: "Avel"
+  surname: "Manansala"
+  company: "GBG General Santos"
+  title: "Community Lead"
   bio: ''
-  thumbnailUrl: RavenDuran.jpg
+  thumbnailUrl: avel-manansala.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/109777245615877849664/"}
-    - {abbr: "GSA", title: "Google Student Ambassador", url: "https://plus.google.com/114229220484006448933/posts"}
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+RavenDuran231/posts"}
-    - {name: "github", link: "https://github.com/coderaven"}
-    - {name: "twitter", link: "https://twitter.com/imraven"}
+    - {name: "twitter", link: "https://twitter.com/bariles"}
 -
   id: 10
   name: "Geoff"
   surname: "Diaz"
-  company: "Webnified"
+  company: "EDGE VR"
   title: "Software Engineer"
   bio: ''
   thumbnailUrl: Geoff.jpg
@@ -113,7 +103,7 @@
   id: 11
   name: "Edmund"
   surname: "Salcedo Jr"
-  company: "Webnified"
+  company: "EDGE VR"
   title: "Software Engineer"
   bio: ''
   thumbnailUrl: Edmund.jpg
@@ -125,149 +115,12 @@
     - {name: "twitter", link: "https://twitter.com/EdmundMSalcedoJ"}
 -
   id: 12
-  name: "Carlo"
-  surname: "Borja"
-  company: "Google Business Group"
-  title: "Co-Community Manager"
-  bio: 'Carlo Borja is an Online Marketing Specialist specializing in digital marketing, social media, search engine optimization and general inbound marketing.<p>He is currently the head of online marketing for Staff.com, a global recruitment platform and Time Doctor, a time management software.</p><p>Apart from his online career, he is also the community co-manager for social media of GBG Cagayan de Oro handling all web related concerns and organizing events for the growing business community in the city.</p><p>In addition to that, he is also a youth pastor at a local church while at the same time a musical director of a worship team.</p>'
-  thumbnailUrl: Carlo.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GBG", title: "Google Business Group", url: "http://gbgcagayandeoro.blogspot.com/"}
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+CarloBorja/posts"}
-    - {name: "twitter", link: "https://twitter.com/carloborja"}
--
-  id: 13
-  name: "Shay"
-  surname: "Ramos"
-  company: "Robogals"
-  title: "Robogals CDO President"
-  bio: ''
-  thumbnailUrl: Shay.jpg
+  name: "Chelle"
+  surname: "Gray"
+  company: "Google APAC"
+  title: "Community Manager"
+  bio: ""
+  thumbnailUrl: chelle-gray.jpg
   rockstar: true
   social:
-    - {name: "site", link: "http://www.robogals.org/"}
--
-  id: 14
-  name: "Jon"
-  surname: "Doblados"
-  company: "Google Business Group"
-  title: "Community Lead"
-  bio: ''
-  thumbnailUrl: JonDoblados.jpg
-  rockstar: false
-  ribbon:
-    - {abbr: "GBG", title: "Google Business Group", url: "http://gbgcagayandeoro.blogspot.com/"}
-    - {abbr: "ITG-X", title: "Information Technology Group - Region X"}
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+JonDoblados/posts"}
--
-  id: 15
-  name: "Roxanne"
-  surname: "Fuentes"
-  company: "Google Educator Group"
-  title: "Community Lead"
-  bio: ''
-  thumbnailUrl: Rox.jpg
-  rockstar: false
-  ribbon:
-    - {abbr: "GEG", title: "Google Educator Group"}
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+RoxanneHambre/posts"}
--
-  id: 16
-  name: "Gerardo"
-  surname: "Guangco"
-  company: "Xavier University"
-  title: "Google Student Ambassador"
-  bio: ''
-  thumbnailUrl: Gerardo.jpg
-  rockstar: false
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/109777245615877849664/"}
-    - {abbr: "GSA", title: "Google Student Ambassador", url: "https://plus.google.com/114229220484006448933/"}
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+GerardoGuangco/posts"}
-    - {name: "twitter", link: "https://twitter.com/GGuangco"}
--
-  id: 17
-  name: "Jeffry"
-  surname: "Manhulad"
-  company: "Liceo de Cagayan University"
-  title: "Google Student Ambassador"
-  bio: ''
-  thumbnailUrl: Jeffry.jpg
-  rockstar: false
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/109777245615877849664/"}
-    - {abbr: "GSA", title: "Google Student Ambassador", url: "https://plus.google.com/114229220484006448933/"}
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+JeffryManhulad/posts"}
-    - {name: "twitter", link: "https://twitter.com/jeffrymanhulad"}
--
-  id: 18
-  name: "Paul"
-  surname: "Labis"
-  company: "Java Dev Knot"
-  title: "Community Lead"
-  bio: ''
-  thumbnailUrl: PaulLabis.jpg
-  rockstar: false
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/109777245615877849664/"}
-    - {abbr: "ITG-X", title: "Information Technology Group - Region X"}
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+PaulMichaelLabis/posts"}
-    - {name: "github", link: "https://github.com/paullabis"}
--
-  id: 19
-  name: "Bot"
-  surname: "Peña"
-  company: "Mindanao Ruby Users Group"
-  title: "Community Lead"
-  bio: '.'
-  thumbnailUrl: Botp.jpg
-  rockstar: false
-  ribbon:
-    - {abbr: "ITG-X", title: "Information Technology Group - Region X"}
--
-  id: 20
-  name: "Christian Drey"
-  surname: "Lumen"
-  company: "Google Business Group"
-  title: "Co-Community Lead"
-  bio: ''
-  thumbnailUrl: Drey.jpg
-  rockstar: false
-  ribbon:
-    - {abbr: "GBG", title: "Google Business Group", url: "http://gbgcagayandeoro.blogspot.com/"}
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+ChristianDrey/posts"}
-    - {name: "twitter", link: "https://twitter.com/DreyRaikkonen"}
--
-  id: 21
-  name: "Alma"
-  surname: "Hnanguie"
-  company: "Google Business Group"
-  title: "Co-Community Lead"
-  bio: ''
-  thumbnailUrl: Alma.jpg
-  rockstar: false
-  ribbon:
-    - {abbr: "GBG", title: "Google Business Group", url: "http://gbgcagayandeoro.blogspot.com/"}
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+AlmaHnanguie/posts"}
-    - {name: "twitter", link: "https://twitter.com/lifediscourse_"}
--
-  id: 22
-  name: "Valenice"
-  surname: "Balace"
-  company: "Peekawoo"
-  title: "Founder/CEO"
-  bio: ''
-  thumbnailUrl: Val.jpg
-  rockstar: true
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+ValeniceBalace"}
-    - {name: "twitter", link: "https://twitter.com/valenice8888"}
+    - {name: "google-plus", link: "https://plus.google.com/+ChelleGray"}
