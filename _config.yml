@@ -2,7 +2,6 @@
 markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
-baseurl: /devfestcdo
 
 
 # Site Settings
