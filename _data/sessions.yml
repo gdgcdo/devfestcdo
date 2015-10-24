@@ -1,17 +1,17 @@
 -
   id: 307
   title: "Snack Break"
-  place: "Multi-Purpose Hall"
+  place: "Lambago / Function Room"
   service: true
 -
   id: 503
   title: "Lunch Break"
-  place: "Multi-Purpose Hall"
+  place: "Lambago"
   service: true
 -
   id: 101
   title: "Keynote"
-  place: "Theatre"
+  place: "Lambago"
   subtype: keynote
   speakers: [3]
   language: en
@@ -20,13 +20,13 @@
   id: 000
   title: "Registration"
   description: ""
-  place: "Theatre"
+  place: "Lambago"
   service: true
 -
   id: 111
   title: "Closing"
   description: ""
-  place: "Theatre"
+  place: "Lambago"
   service: true
 -
   id: 001
@@ -38,47 +38,47 @@
   complexity: "none"
 -
   id: 002
-  title: "Community Updates"
-  description: "Aside from the Google Communities, we have other tech communities who woud like to give an update on what they are currently brewing. Let's know more about the Map Maker Community (Google Maps), Robogals CDO (Robotics), Py-Tsada (Python), ITG-X Java Dev Knots (Java), and MinRUG (Ruby)."
+  title: "Firebase"
+  description: "Build cross-platform native mobile and web apps with our Android, iOS, and JavaScript SDKs. You can also connect Firebase to your existing backend using our server-side libraries or our REST API."
   subtype: keynote
   speakers: [7, 13, 18, 19, 20, 21]
   language: en
   complexity: "none"
 -
   id: 003
-  title: "Wearable Technology"
+  title: "Codelabs: Android / Cardboard"
   description: "Know more about Android Wear, Android Lollipop, Cardboard, Chromecast, and more!"
-  subtype: engineering
+  subtype: play
   speakers: [8]
   language: en
   complexity: "Beginner"
 -
   id: 004
-  title: "Mobile App Development"
-  description: ""
-  subtype: engineering
+  title: "Codelabs: Android / Cardboard"
+  description: "Learn how to create apps for Google Cardboard."
+  subtype: play
   speakers: [4]
   language: en
   complexity: "Beginner"
 -
   id: 005
-  title: "Code Labs: HTML5 Game Development"
-  description: "Want to create your own HTML5 game? Be sure to attend this Code Lab Session."
-  subtype: code labs
+  title: "Codelabs: Python + Google Calendar API"
+  description: "Learn more about python. Be sure to attend this Code Lab Session."
+  subtype: web
   speakers: [5]
   language: en
   complexity: "Beginner"
 -
   id: 006
-  title: "Product Development"
-  description: "Are you an aspiring enterpreneur? Learn tips on how you can build great products for your startup company."
-  subtype: startup
+  title: "Codelabs: Arduino/Adafruit Gemma"
+  description: "Hands-on with Adafruit's Gemma Kit, a DIY wearable kit."
+  subtype: experiment
   speakers: [22]
   language: en
   complexity: "Beginner"
 -
   id: 007
-  title: "Cardboard Virtual Reality"
+  title: "Closing and Raffle"
   description: ""
   subtype: engineering
   speakers: [9, 10, 11]
