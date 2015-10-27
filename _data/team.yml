@@ -294,3 +294,12 @@
   social: 
     - {name: "google-plus", link: ""}
 -
+  id: 34
+  name: "Bryan"
+  surname: "Armada"
+  title: "Registration"
+  thumbnailUrl: Bryan.jpg
+  iligan: true
+  social: 
+    - {name: "google-plus", link: ""}
+-
